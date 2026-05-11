@@ -75,7 +75,3 @@ This project is for portfolio/demonstration purposes only. All weather data is f
 ---
 
 Made with ❤️ – demonstrating React fundamentals and responsive design.
-
-```
-
-```

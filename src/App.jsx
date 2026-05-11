@@ -97,7 +97,14 @@ function App() {
           </div>{" "}
         </footer>
       </article>
-      {noCity && <NoCity onClose={() => setNoCity(false)} />}
+      {noCity && (
+        <NoCity
+          onClose={() => {
+            setNoCity(false);
+            setCity("");
+          }}
+        />
+      )}
     </>
   );
 }
