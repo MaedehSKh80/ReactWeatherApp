@@ -20,21 +20,21 @@ A responsive React weather dashboard that displays current weather conditions an
 ## How to Run Locally
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/MaedehSKh80/ReactWeatherApp
    cd ReactWeatherApp
    ```
-````
 
 1. Install dependencies:
    ```bash
    npm install
    ```
-2. Start the development server:
+1. Start the development server:
    ```bash
    npm start
    ```
-3. Open http://localhost:3000 in your browser.
+1. Open http://localhost:3000 in your browser.
 
 Usage Instructions
 
@@ -80,3 +80,4 @@ Made with ❤️ – demonstrating React fundamentals and responsive design.
 ```
 
 ```
+````
