@@ -1,4 +1,3 @@
-````markdown
 # React Weather App
 
 A responsive React weather dashboard that displays current weather conditions and forecasts for major Iranian cities. This project is a front-end prototype using static mock data – perfect for demonstrating component-based architecture, state management, and responsive design.
@@ -80,4 +79,3 @@ Made with ❤️ – demonstrating React fundamentals and responsive design.
 ```
 
 ```
-````
